@@ -1,0 +1,10 @@
+# Ignore CUDA files and directories
+*.cu
+*.cuh
+*.ptx
+*.cubin
+/bin/
+/obj/
+/build/
+/_build/
+/_bin/
